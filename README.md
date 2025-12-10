@@ -1,6 +1,6 @@
 # 📚 Guess Next Word — LSTM Language Model
 
-A deep learning project that uses an **LSTM (Long Short-Term Memory)** neural network to predict the **next word** in a sequence of text. The repository includes preprocessing scripts, Jupyter experiments, trained models, tokenizer, and a Streamlit app for interactive predictions.
+A deep learning project that uses an **LSTM (Long Short-Term Memory)** neural network to predict the **next word** in a sequence of text. The repository includes preprocessing scripts, model's script named experiments, trained models, tokenizer, and a Streamlit app for interactive predictions.
 
 ---
 
