@@ -7,3 +7,4 @@ matplotlib
 streamlit
 scikeras
 nltk
+h5py==3.10.0
