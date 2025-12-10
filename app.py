@@ -32,6 +32,3 @@ if st.button("Predict Next Word"):
     next_word = predict_next_word(model, tokenizer, input_text, max_sequence_len)
     st.write(f'Next word: {next_word}')
 
-
-
-
